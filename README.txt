@@ -3,7 +3,7 @@
 Welcome to my second HTML/CSS project on GitHub!
 
 ## About
-This project was created as part of my learning journey in web development. this is the first template of elzero academi templates for css.
+This project was created as part of my learning journey in web development. this is the first template of elzero academy's templates for css.
 
 ## Note
 - This project is responsive and will work well on any size of screens; from small and mobile screen to larger screen.
