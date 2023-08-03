@@ -376,14 +376,15 @@ body {
 }
 
 .about .img-container {
-    width: 50%;
+    width: 230px;
+    height: 345px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
 
 .about .img-container img {
-    width: 230px;
+    width: 100%
 }
 
 .about .text-container {
@@ -520,6 +521,12 @@ footer .container span {
 
 .contact .container p img{
     margin-bottom: -7px;
+}
+
+@media (max-width: 991px) {
+    .contact .container h3 a {
+        font-size: 18px;
+    }
 }
 
 @media (min-width: 992px) {
